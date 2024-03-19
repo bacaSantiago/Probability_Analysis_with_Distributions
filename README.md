@@ -1,4 +1,4 @@
-# Rainy Days Probability Analysis
+# Probability Analysis with Distributions
 
 ## Overview
 
